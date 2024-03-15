@@ -1,7 +1,7 @@
 # OpenWrt-MiR3G
 **小米R3G路由器OpenWrt固件**
 
-⏰ **每个月2号自动拉取最新源码自动编译**
+⏰ **每天自动拉取最新源码自动编译**
 
 <p align="center">
   <a href="https://github.com/TwoTu/OpenWrt-MiR3G/actions">
@@ -23,7 +23,7 @@
 
 ### 🎯固件默认设置   
 
-- 路由器地址: `192.168.123.1`   
+- 路由器地址: `192.168.15.1`   
 - 默认用户名: `root`   
 - 默认密码  : `password`
 
